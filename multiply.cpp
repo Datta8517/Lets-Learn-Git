@@ -8,7 +8,7 @@ int main(){
 
     cin>>a>>b;
     mul=a*b;
-    cout<<"The multiplication is "<<mul<<endl;
+    cout<<mul<<endl;
 
     return 0;
 }
